@@ -2,7 +2,7 @@
 
 ## Dataset
 
-This dataset is based on individual rides madein a bike-sharing system covering the greater San FranciscoBay area.
+This dataset is based on individual rides madein a bike-sharing system covering the greater San FranciscoBay area. The dataset is gotten from [Ford GoBikes Dataset](https://www.google.com/url?q=https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv&sa=D&source=editors&ust=1662902742167766&usg=AOvVaw2HcHM-CKSfgA8caYBR3K-M)
 It consists of 183412 rows and 16 columns in which the columns are of different data types.
 
 ## Summary of Findings
