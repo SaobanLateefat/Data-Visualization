@@ -8,21 +8,21 @@ It consists of 183412 rows and 16 columns in which the columns are of different 
 ## Summary of Findings
 
 * We have more males to female
--- There are more of people who are subscribers to customers
--- Most trips are done within short hours.
--- We have higher trips on weekdays to weekends
--- Most ofthe trip is made around 5pm and 8am and we deduce this is due to rush hours.
--- We have younger people who board bikes to older people
+* There are more of people who are subscribers to customers
+* Most trips are done within short hours.
+* We have higher trips on weekdays to weekends
+* Most ofthe trip is made around 5pm and 8am and we deduce this is due to rush hours.
+* We have younger people who board bikes to older people
 
 ## Key Insights for Presentation
 
 The presentation part is based on:
 
-Trip per User type, Gender and Age:<br>
--- There are more of people who are subscribers to customers<br>
--- We have more males to female<br>
--- We have younger people who board bikes to older people<br>
+Trip per User type, Gender and Age:
+* There are more of people who are subscribers to customers<br>
+* We have more males to female<br>
+*  We have younger people who board bikes to older people<br>
 
-Trips per weekday and hour of the day:<br>
--- We have higher trips on weekdays to weekends<br>
--- Most ofthe trip is made around 5pm and 8am and we deduce this is due to rush hours.<br>
+Trips per weekday and hour of the day:
+* We have higher trips on weekdays to weekends<br>
+*Most ofthe trip is made around 5pm and 8am and we deduce this is due to rush hours.<br>
