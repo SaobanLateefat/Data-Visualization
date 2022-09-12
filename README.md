@@ -25,4 +25,4 @@ Trip per User type, Gender and Age:
 
 Trips per weekday and hour of the day:
 * We have higher trips on weekdays to weekends<br>
-*Most ofthe trip is made around 5pm and 8am and we deduce this is due to rush hours.<br>
+* Most ofthe trip is made around 5pm and 8am and we deduce this is due to rush hours.<br>
