@@ -7,7 +7,7 @@ It consists of 183412 rows and 16 columns in which the columns are of different 
 
 ## Summary of Findings
 
--- We have more males to female
+* We have more males to female
 -- There are more of people who are subscribers to customers
 -- Most trips are done within short hours.
 -- We have higher trips on weekdays to weekends
